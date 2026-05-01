@@ -1,5 +1,5 @@
 # User Engagement & Retention Analysis for Mobile App
-
+End-to-end analysis of user engagement, retention, and at-risk user prediction for a mobile application.
 ## Overview
 
 This project analyzes mobile app user behavior to understand engagement patterns, identify drop-offs in the user journey, and build a predictive approach for detecting at-risk users.
